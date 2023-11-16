@@ -1,0 +1,9 @@
+README.md
+*/.class
+*/.json
+*/.bin
+.vscode/settings.json
+bin/Cerchio.class
+bin/Quadrato.class
+bin/Forma.class
+bin/Rettangolo.class
