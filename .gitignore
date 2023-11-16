@@ -1,7 +1,4 @@
-README.md
-*/.class
-*/.json
-*/.bin
+
 .vscode/settings.json
 bin/Cerchio.class
 bin/Quadrato.class
